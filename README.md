@@ -9,23 +9,28 @@
 ```ruby
 .
 ├── Google-Certificates
-│   ├── Assets, Threats, and Vulnerabilities - 5.pdf
-│   ├── Automate Cybersecurity Tasks with Python - 7.pdf
-│   ├── Connect and Protect - Networks and Network - 3.pdf
-│   ├── Fundamental of Cybersecurity - 1.pdf
-│   ├── Google Cybersecurity.pdf
-│   ├── Play it Safe - Manage Security Risks - 2.pdf
-│   ├── Put It to Work - Prepare for Cybersecurity Jobs - 8.pdf
-│   ├── Sound the Alarm - Detection and Response - 6.pdf
-│   └── Tools of the Trade - Linux and SQL - 4.pdf
+│   ├── Assets, Threats, and Vulnerabilities - 5.pdf
+│   ├── Automate Cybersecurity Tasks with Python - 7.pdf
+│   ├── Connect and Protect - Networks and Network - 3.pdf
+│   ├── Fundamental of Cybersecurity - 1.pdf
+│   ├── Google Cybersecurity.pdf
+│   ├── Play it Safe - Manage Security Risks - 2.pdf
+│   ├── Put It to Work - Prepare for Cybersecurity Jobs - 8.pdf
+│   ├── Sound the Alarm - Detection and Response - 6.pdf
+│   └── Tools of the Trade - Linux and SQL - 4.pdf
 ├── Great-Learning
-│   ├── Agile.pdf
-│   ├── Front End Development - CSS.pdf
-│   ├── Front End Development - HTML.pdf
-│   └── linux tutorial.pdf
+│   ├── Agile.pdf
+│   ├── Front End Development - CSS.pdf
+│   ├── Front End Development - HTML.pdf
+│   └── linux tutorial.pdf
+├── Harvard-Certificate
+│   └── CS50x.pdf
+├── Microsoft-Linkedin
+│   ├── Career Essentials in Generative AI.pdf
+│   └── MLSA Challenge Certificate.pdf
 └── README.md
 
-2 directories, 14 files
+4 directories, 17 files
 
 ```
 
