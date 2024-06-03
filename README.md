@@ -12,15 +12,15 @@
 ```ruby
 .
 ├── Google-Certificates
-│   ├── Assets, Threats, and Vulnerabilities - 5.pdf
-│   ├── Automate Cybersecurity Tasks with Python - 7.pdf
-│   ├── Connect and Protect - Networks and Network - 3.pdf
-│   ├── Fundamental of Cybersecurity - 1.pdf
-│   ├── Google Cybersecurity.pdf
-│   ├── Play it Safe - Manage Security Risks - 2.pdf
-│   ├── Put It to Work - Prepare for Cybersecurity Jobs - 8.pdf
-│   ├── Sound the Alarm - Detection and Response - 6.pdf
-│   └── Tools of the Trade - Linux and SQL - 4.pdf
+│   ├── 1 - Fundamental of Cybersecurity.pdf
+│   ├── 2 - Play it Safe - Manage Security Risks.pdf
+│   ├── 3 - Connect and Protect - Networks and Network.pdf
+│   ├── 4 - Tools of the Trade - Linux and SQL.pdf
+│   ├── 5 - Assets, Threats, and Vulnerabilities.pdf
+│   ├── 6 - Sound the Alarm - Detection and Response.pdf
+│   ├── 7 - Automate Cybersecurity Tasks with Python.pdf
+│   ├── 8 - Put It to Work - Prepare for Cybersecurity Jobs.pdf
+│   └── Google Cybersecurity.pdf
 ├── Great-Learning
 │   ├── Agile.pdf
 │   ├── Front End Development - CSS.pdf
@@ -38,28 +38,3 @@
 5 directories, 18 files
 
 ```
-
-
-<!-- ## 🌲 Certificate-Tree:
-
-.<br>
-├── [Google-Certificates](https://github.com/akash2061/My-Certificates/tree/main/Google-Certificates)<br>
-│   ├── Assets, Threats, and Vulnerabilities - 5.pdf<br>
-│   ├── Automate Cybersecurity Tasks with Python - 7.pdf<br>
-│   ├── Connect and Protect - Networks and Network - 3.pdf<br>
-│   ├── Fundamental of Cybersecurity - 1.pdf<br>
-│   ├── Google Cybersecurity.pdf<br>
-│   ├── Play it Safe - Manage Security Risks - 2.pdf<br>
-│   ├── Put It to Work - Prepare for Cybersecurity Jobs - 8.pdf<br>
-│   ├── Sound the Alarm - Detection and Response - 6.pdf<br>
-│   └── Tools of the Trade - Linux and SQL - 4.pdf<br>
-├── [Great-Learning](https://github.com/akash2061/My-Certificates/tree/main/Great-Learning)<br>
-│   ├── Agile.pdf<br>
-│   ├── Front End Development - CSS.pdf<br>
-│   ├── Front End Development - HTML.pdf<br>
-│   └── linux tutorial.pdf<br>
-└── [README.md](https://github.com/akash2061/My-Certificates/tree/main/README.md)<br>
-<br>
-2 directories, 14 files<br>
-
--->
