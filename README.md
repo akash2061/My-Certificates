@@ -11,6 +11,9 @@
 ## 🌲 Certificate-Tree:
 ```ruby
 .
+├── Cybrary
+│   ├── network-fundamentals.pdf
+│   └── offensive-penetration-testing.pdf
 ├── Google-Certificates
 │   ├── 1 - Fundamental of Cybersecurity.pdf
 │   ├── 2 - Play it Safe - Manage Security Risks.pdf
@@ -20,12 +23,17 @@
 │   ├── 6 - Sound the Alarm - Detection and Response.pdf
 │   ├── 7 - Automate Cybersecurity Tasks with Python.pdf
 │   ├── 8 - Put It to Work - Prepare for Cybersecurity Jobs.pdf
-│   └── Google Cybersecurity.pdf
+│   ├── Fundamentals-of-Digital-Marketing.pdf
+│   ├── Google Cybersecurity.pdf
+│   └── Google-AI-Essentials.pdf
 ├── Great-Learning
 │   ├── Agile.pdf
 │   ├── Front End Development - CSS.pdf
 │   ├── Front End Development - HTML.pdf
 │   └── linux tutorial.pdf
+├── HackerRank
+│   ├── golang_basic certificate.pdf
+│   └── sql_basic certificate.pdf
 ├── Harvard-Certificate
 │   └── CS50x.pdf
 ├── Microsoft-Linkedin
@@ -35,6 +43,6 @@
 │   └── POSTMAN-API.pdf
 └── README.md
 
-5 directories, 18 files
+8 directories, 24 files
 
 ```
