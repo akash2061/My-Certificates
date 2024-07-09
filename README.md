@@ -46,8 +46,11 @@
 │   └── MLSA Challenge Certificate.pdf
 ├── Postman-API
 │   └── POSTMAN-API.pdf
-└── README.md
+├── README.md
+└── Simplilearn
+    ├── Basic Introduction to Linux Course.pdf
+    └── SQL.pdf
 
-9 directories, 26 files
+10 directories, 28 files
 
 ```
