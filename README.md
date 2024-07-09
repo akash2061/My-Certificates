@@ -4,6 +4,7 @@
 
 + [Google-Certificates](https://github.com/akash2061/My-Certificates/tree/main/Google-Certificates)
 + [Cybrary](https://github.com/akash2061/My-Certificates/tree/main/Cybrary)
++ [Simplilearn](https://github.com/akash2061/My-Certificates/tree/main/Simplilearn)
 + [CodeChef](https://github.com/akash2061/My-Certificates/tree/main/CodeChef)
 + [Great-Learning](https://github.com/akash2061/My-Certificates/tree/main/Great-Learning)
 + [Harvard-Certificate](https://github.com/akash2061/My-Certificates/tree/main/Harvard-Certificate)
