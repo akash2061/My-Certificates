@@ -63,10 +63,12 @@
 │   │   ├── Cybersecurity_Fundamentals.pdf
 │   │   ├── Introduction to cybersecurity - SkillsBuild.pdf
 │   │   └── Your Future in Cybersecurity: The Job Landscape - SkillsBuild.pdf
-│   └── Data-Fundamentals
-│       ├── Data Analysis Using Python.pdf
-│       ├── Data Visualization Using Python.pdf
-│       └── Hadoop Foundations - Level 1.pdf
+│   ├── Data-Fundamentals
+│   │   ├── Data Analysis Using Python.pdf
+│   │   ├── Data Visualization Using Python.pdf
+│   │   └── Hadoop Foundations - Level 1.pdf
+│   └── Docker
+│       └── Docker_Essentials.pdf
 ├── Microsoft-Linkedin
 │   ├── Career Essentials in Generative AI.pdf
 │   └── MLSA Challenge Certificate.pdf
@@ -84,6 +86,6 @@
 └── The_Linux_Foundation
     └── Rust-certificate.pdf
 
-19 directories, 44 files
+20 directories, 45 files
 
 ```
