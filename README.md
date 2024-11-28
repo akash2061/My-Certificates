@@ -13,6 +13,7 @@
 + [Harvard-Certificate](https://github.com/akash2061/My-Certificates/tree/main/Harvard-Certificate)
 + [IBM-SkillBuild](https://github.com/akash2061/My-Certificates/tree/main/IBM-SkillBuild)
 + [Microsoft-Linkedin](https://github.com/akash2061/My-Certificates/tree/main/Microsoft-Linkedin)
++ [NPTEL](https://github.com/akash2061/My-Certificates/tree/main/NPTEL)
 + [Postman-API](https://github.com/akash2061/My-Certificates/tree/main/Postman-API)
 + [TCM-Security](https://github.com/akash2061/My-Certificates/tree/main/TCM-Security)
 + [The_Linux_Foundation](https://github.com/akash2061/My-Certificates/tree/main/The_Linux_Foundation)
@@ -69,6 +70,8 @@
 ├── Microsoft-Linkedin
 │   ├── Career Essentials in Generative AI.pdf
 │   └── MLSA Challenge Certificate.pdf
+├── NPTEL
+│   └── DSA_Using_Java.pdf
 ├── Postman-API
 │   └── POSTMAN-API.pdf
 ├── README.md
@@ -81,6 +84,6 @@
 └── The_Linux_Foundation
     └── Rust-certificate.pdf
 
-18 directories, 43 files
+19 directories, 44 files
 
 ```
