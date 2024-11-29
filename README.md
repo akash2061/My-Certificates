@@ -13,6 +13,7 @@
 + [Harvard-Certificate](https://github.com/akash2061/My-Certificates/tree/main/Harvard-Certificate)
 + [IBM-SkillBuild](https://github.com/akash2061/My-Certificates/tree/main/IBM-SkillBuild)
 + [Microsoft-Linkedin](https://github.com/akash2061/My-Certificates/tree/main/Microsoft-Linkedin)
++ [Linkedin](https://github.com/akash2061/My-Certificates/tree/main/Linkedin)
 + [NPTEL](https://github.com/akash2061/My-Certificates/tree/main/NPTEL)
 + [Postman-API](https://github.com/akash2061/My-Certificates/tree/main/Postman-API)
 + [TCM-Security](https://github.com/akash2061/My-Certificates/tree/main/TCM-Security)
@@ -69,6 +70,9 @@
 │   │   └── Hadoop Foundations - Level 1.pdf
 │   └── Docker
 │       └── Docker_Essentials.pdf
+├── Linkedin
+│   ├── Docker-for-Developers.pdf
+│   └── Introduction-to-Artificial-Intelligence.pdf
 ├── Microsoft-Linkedin
 │   ├── Career Essentials in Generative AI.pdf
 │   └── MLSA Challenge Certificate.pdf
@@ -86,6 +90,6 @@
 └── The_Linux_Foundation
     └── Rust-certificate.pdf
 
-20 directories, 45 files
+21 directories, 47 files
 
 ```
