@@ -44,6 +44,7 @@
 │   ├── 6 - Sound the Alarm - Detection and Response.pdf
 │   ├── 7 - Automate Cybersecurity Tasks with Python.pdf
 │   ├── 8 - Put It to Work - Prepare for Cybersecurity Jobs.pdf
+│   ├── Configuration Management and the Cloud.pdf
 │   ├── Fundamentals-of-Digital-Marketing.pdf
 │   ├── Google Cybersecurity.pdf
 │   └── Google-AI-Essentials.pdf
@@ -90,6 +91,6 @@
 └── The_Linux_Foundation
     └── Rust-certificate.pdf
 
-21 directories, 47 files
+21 directories, 48 files
 
 ```
