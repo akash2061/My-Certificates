@@ -28,6 +28,7 @@
 │   ├── Learn C++ - Pro.pdf
 │   └── Learn SQL.pdf
 ├── Cybrary
+│   ├── Penetration Testing and Ethical Hacking.pdf
 │   ├── network-fundamentals.pdf
 │   └── offensive-penetration-testing.pdf
 ├── GeeksForGeeks
@@ -92,6 +93,6 @@
     ├── OWASP_Top-10-Security.pdf
     └── Rust-certificate.pdf
 
-21 directories, 49 files
+21 directories, 50 files
 
 ```
