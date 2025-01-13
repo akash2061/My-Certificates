@@ -78,6 +78,7 @@
 │       └── Docker_Essentials.pdf
 ├── Linkedin
 │   ├── Docker-for-Developers.pdf
+│   ├── Docker_Foundations_Professional_Certificate.pdf
 │   └── Introduction-to-Artificial-Intelligence.pdf
 ├── Microsoft-Linkedin
 │   ├── Career_Essentials_in_Generative_AI.pdf
@@ -97,6 +98,6 @@
     ├── OWASP_Top-10-Security.pdf
     └── Rust-certificate.pdf
 
-22 directories, 52 files
+22 directories, 53 files
 
 ```
