@@ -13,6 +13,7 @@
 + [Great-Learning](https://github.com/akash2061/My-Certificates/tree/main/Great-Learning)
 + [Harvard-Certificate](https://github.com/akash2061/My-Certificates/tree/main/Harvard-Certificate)
 + [IBM-SkillBuild](https://github.com/akash2061/My-Certificates/tree/main/IBM-SkillBuild)
++ [Cognitive-Class](https://github.com/akash2061/My-Certificates/tree/main/Cognitive-Class)
 + [Microsoft-Linkedin](https://github.com/akash2061/My-Certificates/tree/main/Microsoft-Linkedin)
 + [Linkedin](https://github.com/akash2061/My-Certificates/tree/main/Linkedin)
 + [NPTEL](https://github.com/akash2061/My-Certificates/tree/main/NPTEL)
@@ -28,6 +29,8 @@
 ├── CodeChef
 │   ├── Learn_C++_-_Pro.pdf
 │   └── Learn_SQL.pdf
+├── Cognitive-Class
+│   └── Introduction_to_Containers_Kubernetes_and_OpenShift_V2.pdf
 ├── Cybrary
 │   ├── network-fundamentals.pdf
 │   ├── offensive-penetration-testing.pdf
@@ -98,6 +101,6 @@
     ├── OWASP_Top-10-Security.pdf
     └── Rust-certificate.pdf
 
-22 directories, 53 files
+23 directories, 54 files
 
 ```
