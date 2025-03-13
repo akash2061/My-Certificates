@@ -88,6 +88,8 @@
 │   ├── Docker-for-Developers.pdf
 │   ├── Docker_Foundations_Professional_Certificate.pdf
 │   └── Introduction-to-Artificial-Intelligence.pdf
+├── LogiTHON
+│   └── LogiTHON.jpeg
 ├── Microsoft-Linkedin
 │   ├── Career_Essentials_in_Generative_AI.pdf
 │   └── MLSA_Challenge_Certificate.pdf
@@ -106,7 +108,7 @@
     ├── OWASP_Top-10-Security.pdf
     └── Rust-certificate.pdf
 
-25 directories, 56 files
+26 directories, 57 files
 
 ```
 
