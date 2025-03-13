@@ -26,85 +26,87 @@
 ```ruby
 .
 ├── CISCO
-│   └── Introduction_to_Cybersecurity.pdf
+│   └── Introduction_to_Cybersecurity.pdf
 ├── CodeChef
-│   ├── Learn_C++_-_Pro.pdf
-│   └── Learn_SQL.pdf
+│   ├── Learn_C++_-_Pro.pdf
+│   └── Learn_SQL.pdf
 ├── Cognitive-Class
-│   └── Introduction_to_Containers_Kubernetes_and_OpenShift_V2.pdf
+│   └── Introduction_to_Containers_Kubernetes_and_OpenShift_V2.pdf
 ├── Cybrary
-│   ├── network-fundamentals.pdf
-│   ├── offensive-penetration-testing.pdf
-│   └── Penetration_Testing_and_Ethical_Hacking.pdf
+│   ├── network-fundamentals.pdf
+│   ├── offensive-penetration-testing.pdf
+│   └── Penetration_Testing_and_Ethical_Hacking.pdf
+├── Forge
+│   └── Deloitte_Cyber_Jon_Simulation.pdf
 ├── GeeksForGeeks
-│   └── MongoDB_GFG.pdf
+│   └── MongoDB_GFG.pdf
 ├── Geekster
-│   ├── Git&GitHub.pdf
-│   └── Java.pdf
+│   ├── Git&GitHub.pdf
+│   └── Java.pdf
 ├── GitHub
-│   ├── GitHub_Foundation_Badge-2025.pdf
-│   └── github-foundations.png
+│   ├── GitHub_Foundation_Badge-2025.pdf
+│   └── github-foundations.png
 ├── Google-Certificates
-│   ├── 1_-_Fundamental_of_Cybersecurity.pdf
-│   ├── 2_-_Play_it_Safe_-_Manage_Security_Risks.pdf
-│   ├── 3_-_Connect_and_Protect_-_Networks_and_Network_Security.pdf
-│   ├── 4_-_Tools_of_the_Trade_-_Linux_and_SQL.pdf
-│   ├── 5_-_Assets_Threats_and_Vulnerabilities.pdf
-│   ├── 6_-_Sound_the_Alarm_-_Detection_and_Response.pdf
-│   ├── 7_-_Automate_Cybersecurity_Tasks_with_Python.pdf
-│   ├── 8_-_Put_It_to_Work_-_Prepare_for_Cybersecurity_Jobs.pdf
-│   ├── Configuration_Management_and_the_Cloud.pdf
-│   ├── Fundamentals-of-Digital-Marketing.pdf
-│   ├── Google-AI-Essentials.pdf
-│   └── Google_Cybersecurity.pdf
+│   ├── 1_-_Fundamental_of_Cybersecurity.pdf
+│   ├── 2_-_Play_it_Safe_-_Manage_Security_Risks.pdf
+│   ├── 3_-_Connect_and_Protect_-_Networks_and_Network_Security.pdf
+│   ├── 4_-_Tools_of_the_Trade_-_Linux_and_SQL.pdf
+│   ├── 5_-_Assets_Threats_and_Vulnerabilities.pdf
+│   ├── 6_-_Sound_the_Alarm_-_Detection_and_Response.pdf
+│   ├── 7_-_Automate_Cybersecurity_Tasks_with_Python.pdf
+│   ├── 8_-_Put_It_to_Work_-_Prepare_for_Cybersecurity_Jobs.pdf
+│   ├── Configuration_Management_and_the_Cloud.pdf
+│   ├── Fundamentals-of-Digital-Marketing.pdf
+│   ├── Google-AI-Essentials.pdf
+│   └── Google_Cybersecurity.pdf
 ├── Great-Learning
-│   ├── Agile.pdf
-│   ├── Front_End_Development_-_CSS.pdf
-│   ├── Front_End_Development_-_HTML.pdf
-│   └── linux_tutorial.pdf
+│   ├── Agile.pdf
+│   ├── Front_End_Development_-_CSS.pdf
+│   ├── Front_End_Development_-_HTML.pdf
+│   └── linux_tutorial.pdf
 ├── Grras-Solutions-MERN
-│   └── grras-216347.pdf
+│   └── grras-216347.pdf
 ├── HackerRank
-│   ├── golang_basic-certificate.pdf
-│   └── sql_basic-certificate.pdf
+│   ├── golang_basic-certificate.pdf
+│   └── sql_basic-certificate.pdf
 ├── Harvard-Certificate
-│   └── CS50x.pdf
+│   └── CS50x.pdf
 ├── IBM-SkillBuild
-│   ├── Cybersecurity
-│   │   ├── Cybersecurity_Fundamentals.pdf
-│   │   ├── Cybersecurity_On_the_Defense_-_SkillsBuild.pdf
-│   │   ├── Cybersecurity_On_the_Offense_-_SkillsBuild.pdf
-│   │   ├── Introduction_to_cybersecurity_-_SkillsBuild.pdf
-│   │   └── Your_Future_in_Cybersecurity_The_Job_Landscape_-_SkillsBuild.pdf
-│   ├── Data-Fundamentals
-│   │   ├── Data_Analysis_Using_Python.pdf
-│   │   ├── Data_Visualization_Using_Python.pdf
-│   │   └── Hadoop_Foundations_-_Level_1.pdf
-│   └── Docker
-│       └── Docker_Essentials.pdf
+│   ├── Cybersecurity
+│   │   ├── Cybersecurity_Fundamentals.pdf
+│   │   ├── Cybersecurity_On_the_Defense_-_SkillsBuild.pdf
+│   │   ├── Cybersecurity_On_the_Offense_-_SkillsBuild.pdf
+│   │   ├── Introduction_to_cybersecurity_-_SkillsBuild.pdf
+│   │   └── Your_Future_in_Cybersecurity_The_Job_Landscape_-_SkillsBuild.pdf
+│   ├── Data-Fundamentals
+│   │   ├── Data_Analysis_Using_Python.pdf
+│   │   ├── Data_Visualization_Using_Python.pdf
+│   │   └── Hadoop_Foundations_-_Level_1.pdf
+│   └── Docker
+│       └── Docker_Essentials.pdf
 ├── Linkedin
-│   ├── Docker-for-Developers.pdf
-│   ├── Docker_Foundations_Professional_Certificate.pdf
-│   └── Introduction-to-Artificial-Intelligence.pdf
+│   ├── Docker-for-Developers.pdf
+│   ├── Docker_Foundations_Professional_Certificate.pdf
+│   └── Introduction-to-Artificial-Intelligence.pdf
 ├── Microsoft-Linkedin
-│   ├── Career_Essentials_in_Generative_AI.pdf
-│   └── MLSA_Challenge_Certificate.pdf
+│   ├── Career_Essentials_in_Generative_AI.pdf
+│   └── MLSA_Challenge_Certificate.pdf
 ├── NPTEL
-│   └── DSA_Using_Java.pdf
+│   └── DSA_Using_Java.pdf
 ├── Postman-API
-│   └── POSTMAN-API.pdf
+│   └── POSTMAN-API.pdf
 ├── README.md
 ├── Simplilearn
-│   ├── Basic_Introduction_to_Linux_Course.pdf
-│   ├── Introduction_to_Front_End_Development.pdf
-│   └── SQL.pdf
+│   ├── Basic_Introduction_to_Linux_Course.pdf
+│   ├── Introduction_to_Front_End_Development.pdf
+│   └── SQL.pdf
 ├── TCM-Security
-│   └── Linux_100_-_Fundamentals.pdf
+│   └── Linux_100_-_Fundamentals.pdf
 └── The_Linux_Foundation
     ├── OWASP_Top-10-Security.pdf
     └── Rust-certificate.pdf
 
-24 directories, 55 files
+25 directories, 56 files
 
 ```
 
