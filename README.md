@@ -25,6 +25,8 @@
 ## 🌲 Certificate-Tree:
 ```ruby
 .
+├── Canonical
+│   └── Ubuntu-Linux-Professional-Certificate-by-Canonical.pdf
 ├── CISCO
 │   └── Introduction_to_Cybersecurity.pdf
 ├── CodeChef
@@ -108,7 +110,7 @@
     ├── OWASP_Top-10-Security.pdf
     └── Rust-certificate.pdf
 
-26 directories, 57 files
+27 directories, 58 files
 
 ```
 
